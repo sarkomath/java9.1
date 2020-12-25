@@ -1,3 +1,5 @@
+package domain;
+
 public class CommentInfo {
     private int count; //количество комментариев
     private boolean isPrivate; // приватна ли запись

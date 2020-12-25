@@ -1,3 +1,5 @@
+package domain;
+
 public class Post {
 
     // tage v1

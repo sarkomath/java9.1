@@ -1,3 +1,5 @@
+package domain;
+
 public class CopyRight {
     private int id;
     private String link;
